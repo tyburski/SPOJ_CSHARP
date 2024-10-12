@@ -5,7 +5,6 @@ for(int i = 0; i < n; i++)
 {
     input = Convert.ToInt32(Console.ReadLine());
     inputList.Add(input);
-    //input = Convert.ToInt32(Console.ReadLine());
 }
 foreach(var i in inputList)
 {
